@@ -108,6 +108,3 @@ dmm-extension.com
 dmmapis.com
 api-p.videomarket.jp
 saima.zlzd.xyz
-challenges.cloudflare.com
-ai.com
-openai.com
